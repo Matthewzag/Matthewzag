@@ -27,10 +27,6 @@ Hi there! I'm **Matthew Zagada**, a data analyst passionate about turning raw da
 **Description**: Built a dynamic Tableau dashboard to showcase key metrics like revenue and profit margins across regions.  
 **Tech Stack**: Tableau, Excel  
 
-### 🔢 **[Customer Churn Analysis](#)**  
-**Description**: Explored customer churn factors using Python and SQL, presenting actionable insights with Power BI.  
-**Tech Stack**: Python, SQL, Power BI  
-
 ### 💻 **[Amazon Price Tracker](#)**  
 **Description**: Designed a Python web scraper to monitor product prices and send alerts for price drops.  
 **Tech Stack**: Python (BeautifulSoup, pandas)  
