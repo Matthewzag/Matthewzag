@@ -13,23 +13,43 @@ Hi there! I'm **Matthew Zagada**, a data analyst passionate about turning raw da
 
 ---
 
-## 📂 **Repositories**
+## Featured Projects
 
-### 🚴 **[Cyclistic Case Study](#)**  
-**Description**: Analyzed historical bike-share data to identify patterns in rider behavior and proposed strategies to increase memberships.  
-**Tech Stack**: Python, SQL, Tableau  
+### 1. Cyclistic Trip Data Analysis
 
-### 🏠 **[Nashville Housing Data Analysis](#)**  
-**Description**: Cleaned and analyzed Nashville housing data to uncover market trends and improve data quality.  
-**Tech Stack**: SQL  
+- **Description**: Analyzed bike-sharing data to uncover usage patterns and provide recommendations for increasing membership.
+- **Technologies**: SQL, Python, Tableau
+- **Repository**: [Cyclistic Trip Data](https://github.com/Matthewzag/cyclistic-tripdata)
 
-### 🛒 **[Retail Sales Dashboard](#)**  
-**Description**: Built a dynamic Tableau dashboard to showcase key metrics like revenue and profit margins across regions.  
-**Tech Stack**: Tableau, Excel  
+### 2. COVID-19 Data Analysis
 
-### 💻 **[Amazon Price Tracker](#)**  
-**Description**: Designed a Python web scraper to monitor product prices and send alerts for price drops.  
-**Tech Stack**: Python (BeautifulSoup, pandas)  
+- **Description**: Performed SQL-based analysis on COVID-19 datasets to track and visualize the spread of the virus.
+- **Technologies**: SQL, Power BI
+- **Repository**: [COVID-19 SQL Project](https://github.com/Matthewzag/COVID-SQL-PROJECT)
+
+### 3. Nashville Housing Data Analysis
+
+- **Description**: Conducted data cleaning and analysis on Nashville housing data to identify market trends.
+- **Technologies**: SQL, Excel
+- **Repository**: [Nashville Housing SQL Project](https://github.com/Matthewzag/NASHVILLE-HOUSING-SQL-PROJECT)
+
+### 4. Data Survey Breakdown with Power BI
+
+- **Description**: Created interactive dashboards to visualize survey data, providing insights into respondent demographics and preferences.
+- **Technologies**: Power BI
+- **Repository**: [Data Survey Breakdown with Power BI](https://github.com/Matthewzag/Data-survey-breakdown-with-PowerBI)
+
+### 5. Bike Sales Analysis Project
+
+- **Description**: Analyzed bike sales data to identify key factors influencing purchasing decisions.
+- **Technologies**: Python, Excel
+- **Repository**: [Bike Sales Analysis Project](https://github.com/Matthewzag/Bike-Sales-Analysis-Project)
+
+### 6. Data Automation and Scraping Projects
+
+- **Description**: Developed scripts for web scraping and data automation to streamline data collection processes.
+- **Technologies**: Python (BeautifulSoup, pandas)
+- **Repository**: [Data Automation and Scraping Projects](https://github.com/Matthewzag/Data-Automation-and-Scraping-Projects)
 
 ---
 
